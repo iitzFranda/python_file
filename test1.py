@@ -71,5 +71,3 @@ print(type(is_active)) # <class 'bool'>
 
 print('---------')
 
-a = 111
-isinstance(a, int)
